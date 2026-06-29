@@ -18,7 +18,7 @@ class Solution {
         int oldcp=-1;
         int fcp=0;
         while(t.next!=null){
-            if(t.val>p.val&&t.val>t.next.val){
+            if((t.val>p.val&&t.val>t.next.val)||(t.val<p.val&&t.val<t.next.val)){
                 cpct++;
                 if(cpct>1){
                     if(cpct==2)arr[0]=idx-oldcp;
@@ -30,18 +30,7 @@ class Solution {
                 if(cpct==1)fcp=idx;
                 oldcp=idx;
             }
-            else if(t.val<p.val&&t.val<t.next.val){
-                           cpct++;
-                if(cpct>1){
-                    if(cpct==2)arr[0]=idx-oldcp;
-                    else arr[0]=Math.min(idx-oldcp,arr[0]);
-                }
-                if(cpct>1){
-                    arr[1]=idx-fcp;
-                }
-                if(cpct==1)fcp=idx;
-                oldcp=idx;
-            }
+        
             p=t;
             t=t.next;
             idx++;
