@@ -19,9 +19,9 @@ class Solution {
             while(st.size()!=0&&st.peek().val<t.val){
                 st.pop();
             }
-            // st.push(t);
-            if(st.size()==0)st.push(t);
-            else if(st.size()!=0&&st.peek().val>=t.val)st.push(t);
+             st.push(t);
+            // if(st.size()==0)st.push(t);
+            // else if(st.size()!=0&&st.peek().val>=t.val)st.push(t);
             t=t.next;
         }
         if(st.size()!=0)head=st.pop();
