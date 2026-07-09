@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Adityajurel/my-LeetCode-Journey/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Adityajurel/my-LeetCode-Journey/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/Adityajurel/my-LeetCode-Journey/tree/master/0496-next-greater-element-i) |
+| [0735-asteroid-collision](https://github.com/Adityajurel/my-LeetCode-Journey/tree/master/0735-asteroid-collision) |
 | [0907-sum-of-subarray-minimums](https://github.com/Adityajurel/my-LeetCode-Journey/tree/master/0907-sum-of-subarray-minimums) |
 | [2487-remove-nodes-from-linked-list](https://github.com/Adityajurel/my-LeetCode-Journey/tree/master/2487-remove-nodes-from-linked-list) |
 ## Array
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Adityajurel/my-LeetCode-Journey/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/Adityajurel/my-LeetCode-Journey/tree/master/0496-next-greater-element-i) |
+| [0735-asteroid-collision](https://github.com/Adityajurel/my-LeetCode-Journey/tree/master/0735-asteroid-collision) |
 | [0907-sum-of-subarray-minimums](https://github.com/Adityajurel/my-LeetCode-Journey/tree/master/0907-sum-of-subarray-minimums) |
 ## Hash Table
 |  |
@@ -57,4 +59,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Adityajurel/my-LeetCode-Journey/tree/master/0042-trapping-rain-water) |
 | [0907-sum-of-subarray-minimums](https://github.com/Adityajurel/my-LeetCode-Journey/tree/master/0907-sum-of-subarray-minimums) |
+## Simulation
+|  |
+| ------- |
+| [0735-asteroid-collision](https://github.com/Adityajurel/my-LeetCode-Journey/tree/master/0735-asteroid-collision) |
 <!---LeetCode Topics End-->
