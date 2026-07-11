@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Adityajurel/my-LeetCode-Journey/tree/master/0042-trapping-rain-water) |
+| [0239-sliding-window-maximum](https://github.com/Adityajurel/my-LeetCode-Journey/tree/master/0239-sliding-window-maximum) |
 | [0496-next-greater-element-i](https://github.com/Adityajurel/my-LeetCode-Journey/tree/master/0496-next-greater-element-i) |
 | [0735-asteroid-collision](https://github.com/Adityajurel/my-LeetCode-Journey/tree/master/0735-asteroid-collision) |
 | [0907-sum-of-subarray-minimums](https://github.com/Adityajurel/my-LeetCode-Journey/tree/master/0907-sum-of-subarray-minimums) |
@@ -63,4 +64,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/Adityajurel/my-LeetCode-Journey/tree/master/0735-asteroid-collision) |
+## Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Adityajurel/my-LeetCode-Journey/tree/master/0239-sliding-window-maximum) |
+## Sliding Window
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Adityajurel/my-LeetCode-Journey/tree/master/0239-sliding-window-maximum) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Adityajurel/my-LeetCode-Journey/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Adityajurel/my-LeetCode-Journey/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
