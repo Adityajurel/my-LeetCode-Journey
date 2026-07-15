@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Adityajurel/my-LeetCode-Journey/tree/master/0496-next-greater-element-i) |
 | [0735-asteroid-collision](https://github.com/Adityajurel/my-LeetCode-Journey/tree/master/0735-asteroid-collision) |
 | [0907-sum-of-subarray-minimums](https://github.com/Adityajurel/my-LeetCode-Journey/tree/master/0907-sum-of-subarray-minimums) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/Adityajurel/my-LeetCode-Journey/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2487-remove-nodes-from-linked-list](https://github.com/Adityajurel/my-LeetCode-Journey/tree/master/2487-remove-nodes-from-linked-list) |
 ## Array
 |  |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Adityajurel/my-LeetCode-Journey/tree/master/0496-next-greater-element-i) |
 | [0735-asteroid-collision](https://github.com/Adityajurel/my-LeetCode-Journey/tree/master/0735-asteroid-collision) |
 | [0907-sum-of-subarray-minimums](https://github.com/Adityajurel/my-LeetCode-Journey/tree/master/0907-sum-of-subarray-minimums) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/Adityajurel/my-LeetCode-Journey/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Adityajurel/my-LeetCode-Journey/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Hash Table
 |  |
@@ -74,11 +76,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/Adityajurel/my-LeetCode-Journey/tree/master/0735-asteroid-collision) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/Adityajurel/my-LeetCode-Journey/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Adityajurel/my-LeetCode-Journey/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Queue
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Adityajurel/my-LeetCode-Journey/tree/master/0239-sliding-window-maximum) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/Adityajurel/my-LeetCode-Journey/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Adityajurel/my-LeetCode-Journey/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Sliding Window
 |  |
