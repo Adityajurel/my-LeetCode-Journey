@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/Adityajurel/my-LeetCode-Journey/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Adityajurel/my-LeetCode-Journey/tree/master/0085-maximal-rectangle) |
 | [0155-min-stack](https://github.com/Adityajurel/my-LeetCode-Journey/tree/master/0155-min-stack) |
+| [0232-implement-queue-using-stacks](https://github.com/Adityajurel/my-LeetCode-Journey/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/Adityajurel/my-LeetCode-Journey/tree/master/0496-next-greater-element-i) |
 | [0735-asteroid-collision](https://github.com/Adityajurel/my-LeetCode-Journey/tree/master/0735-asteroid-collision) |
 | [0907-sum-of-subarray-minimums](https://github.com/Adityajurel/my-LeetCode-Journey/tree/master/0907-sum-of-subarray-minimums) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/Adityajurel/my-LeetCode-Journey/tree/master/0232-implement-queue-using-stacks) |
 | [0239-sliding-window-maximum](https://github.com/Adityajurel/my-LeetCode-Journey/tree/master/0239-sliding-window-maximum) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Adityajurel/my-LeetCode-Journey/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Adityajurel/my-LeetCode-Journey/tree/master/1823-find-the-winner-of-the-circular-game) |
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/Adityajurel/my-LeetCode-Journey/tree/master/0155-min-stack) |
+| [0232-implement-queue-using-stacks](https://github.com/Adityajurel/my-LeetCode-Journey/tree/master/0232-implement-queue-using-stacks) |
 ## Math
 |  |
 | ------- |
