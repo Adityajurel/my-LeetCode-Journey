@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Adityajurel/my-LeetCode-Journey/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+| [0622-design-circular-queue](https://github.com/Adityajurel/my-LeetCode-Journey/tree/master/0622-design-circular-queue) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Adityajurel/my-LeetCode-Journey/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2487-remove-nodes-from-linked-list](https://github.com/Adityajurel/my-LeetCode-Journey/tree/master/2487-remove-nodes-from-linked-list) |
 ## Depth-First Search
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/Adityajurel/my-LeetCode-Journey/tree/master/0085-maximal-rectangle) |
 | [0239-sliding-window-maximum](https://github.com/Adityajurel/my-LeetCode-Journey/tree/master/0239-sliding-window-maximum) |
 | [0496-next-greater-element-i](https://github.com/Adityajurel/my-LeetCode-Journey/tree/master/0496-next-greater-element-i) |
+| [0622-design-circular-queue](https://github.com/Adityajurel/my-LeetCode-Journey/tree/master/0622-design-circular-queue) |
 | [0735-asteroid-collision](https://github.com/Adityajurel/my-LeetCode-Journey/tree/master/0735-asteroid-collision) |
 | [0907-sum-of-subarray-minimums](https://github.com/Adityajurel/my-LeetCode-Journey/tree/master/0907-sum-of-subarray-minimums) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Adityajurel/my-LeetCode-Journey/tree/master/1700-number-of-students-unable-to-eat-lunch) |
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/Adityajurel/my-LeetCode-Journey/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Adityajurel/my-LeetCode-Journey/tree/master/0232-implement-queue-using-stacks) |
 | [0239-sliding-window-maximum](https://github.com/Adityajurel/my-LeetCode-Journey/tree/master/0239-sliding-window-maximum) |
+| [0622-design-circular-queue](https://github.com/Adityajurel/my-LeetCode-Journey/tree/master/0622-design-circular-queue) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Adityajurel/my-LeetCode-Journey/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Adityajurel/my-LeetCode-Journey/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Sliding Window
@@ -110,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/Adityajurel/my-LeetCode-Journey/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Adityajurel/my-LeetCode-Journey/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Adityajurel/my-LeetCode-Journey/tree/master/0232-implement-queue-using-stacks) |
+| [0622-design-circular-queue](https://github.com/Adityajurel/my-LeetCode-Journey/tree/master/0622-design-circular-queue) |
 ## Math
 |  |
 | ------- |
