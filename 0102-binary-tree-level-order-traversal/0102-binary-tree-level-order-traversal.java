@@ -13,43 +13,24 @@
  *     }
  * }
  */
- class pair{
-    TreeNode a;
-    int b;
-    pair(TreeNode a,int b){
-        this.a=a;
-        this.b=b;
-    }
- }
 class Solution {
-    void bfs(TreeNode root,List<List<Integer>> ans){
-
-        Queue<pair> q = new LinkedList<>();
-        int lvl=0;
-        ArrayList <Integer> arr= new ArrayList<>();
-        q.add(new pair(root,0));
-        while(q.size()!=0){
-            pair top= q.remove();
-            if(top.b==lvl){
-                arr.add(top.a.val);
-            }
-            else{
-                ans.add(arr);
-                lvl++;
-                arr= new ArrayList<>();
-                arr.add(top.a.val);
-            }
-        
-            if(top.a.left!=null)q.add(new pair(top.a.left,top.b+1));
-            if(top.a.right!=null)q.add(new pair(top.a.right,top.b+1));
-
-        }
-        ans.add(arr);
-    }
     public List<List<Integer>> levelOrder(TreeNode root) {
-        List<List<Integer>> ans = new ArrayList<>();
+        List<List<Integer>> ans= new ArrayList<>();
         if(root==null) return ans;
-        bfs(root,ans);
+        Queue<TreeNode> q= new LinkedList<>();
+        q.add(root);
+        while(q.size()!=0){
+            int n = q.size();
+            List <Integer> arr= new ArrayList<>();
+
+            while(n-->0){
+                TreeNode temp = q.remove();
+                arr.add(temp.val);
+                if(temp.left!=null)q.add(temp.left);
+                if(temp.right!=null)q.add(temp.right);
+            }
+            ans.add(arr);
+        }
         return ans;
     }
 }
