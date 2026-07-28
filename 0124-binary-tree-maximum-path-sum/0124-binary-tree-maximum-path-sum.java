@@ -16,7 +16,7 @@
 class Solution {
     int mp;
     int help(TreeNode root){
-        if(root==null) return -10000;
+        if(root==null) return -77853;
         int lv= help(root.left);
         int rv= help(root.right);
         mp=Math.max(mp,Math.max(root.val,Math.max(root.val+lv+rv,Math.max(root.val+Math.max(lv,rv),Math.max(lv,rv)))));
