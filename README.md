@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/Adityajurel/my-LeetCode-Journey/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Adityajurel/my-LeetCode-Journey/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Adityajurel/my-LeetCode-Journey/tree/master/0110-balanced-binary-tree) |
+| [0112-path-sum](https://github.com/Adityajurel/my-LeetCode-Journey/tree/master/0112-path-sum) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Adityajurel/my-LeetCode-Journey/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Adityajurel/my-LeetCode-Journey/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Adityajurel/my-LeetCode-Journey/tree/master/0145-binary-tree-postorder-traversal) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/Adityajurel/my-LeetCode-Journey/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Adityajurel/my-LeetCode-Journey/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Adityajurel/my-LeetCode-Journey/tree/master/0110-balanced-binary-tree) |
+| [0112-path-sum](https://github.com/Adityajurel/my-LeetCode-Journey/tree/master/0112-path-sum) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Adityajurel/my-LeetCode-Journey/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Adityajurel/my-LeetCode-Journey/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Adityajurel/my-LeetCode-Journey/tree/master/0145-binary-tree-postorder-traversal) |
@@ -157,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/Adityajurel/my-LeetCode-Journey/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Adityajurel/my-LeetCode-Journey/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Adityajurel/my-LeetCode-Journey/tree/master/0110-balanced-binary-tree) |
+| [0112-path-sum](https://github.com/Adityajurel/my-LeetCode-Journey/tree/master/0112-path-sum) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Adityajurel/my-LeetCode-Journey/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Adityajurel/my-LeetCode-Journey/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Adityajurel/my-LeetCode-Journey/tree/master/0145-binary-tree-postorder-traversal) |
@@ -170,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/Adityajurel/my-LeetCode-Journey/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Adityajurel/my-LeetCode-Journey/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Adityajurel/my-LeetCode-Journey/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/Adityajurel/my-LeetCode-Journey/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/Adityajurel/my-LeetCode-Journey/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/Adityajurel/my-LeetCode-Journey/tree/master/0226-invert-binary-tree) |
 <!---LeetCode Topics End-->
