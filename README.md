@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Adityajurel/my-LeetCode-Journey/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Adityajurel/my-LeetCode-Journey/tree/master/0020-valid-parentheses) |
 ## Stack
 |  |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Adityajurel/my-LeetCode-Journey/tree/master/0014-longest-common-prefix) |
 | [0042-trapping-rain-water](https://github.com/Adityajurel/my-LeetCode-Journey/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Adityajurel/my-LeetCode-Journey/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Adityajurel/my-LeetCode-Journey/tree/master/0085-maximal-rectangle) |
@@ -191,4 +193,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Adityajurel/my-LeetCode-Journey/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Adityajurel/my-LeetCode-Journey/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
