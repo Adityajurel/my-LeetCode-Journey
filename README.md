@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Adityajurel/my-LeetCode-Journey/tree/master/0042-trapping-rain-water) |
+| [0070-climbing-stairs](https://github.com/Adityajurel/my-LeetCode-Journey/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/Adityajurel/my-LeetCode-Journey/tree/master/0085-maximal-rectangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Adityajurel/my-LeetCode-Journey/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0198-house-robber](https://github.com/Adityajurel/my-LeetCode-Journey/tree/master/0198-house-robber) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Adityajurel/my-LeetCode-Journey/tree/master/0050-powx-n) |
+| [0070-climbing-stairs](https://github.com/Adityajurel/my-LeetCode-Journey/tree/master/0070-climbing-stairs) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Adityajurel/my-LeetCode-Journey/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Tree
 |  |
@@ -203,4 +205,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Adityajurel/my-LeetCode-Journey/tree/master/0014-longest-common-prefix) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Adityajurel/my-LeetCode-Journey/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
