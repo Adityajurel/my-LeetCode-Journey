@@ -10,6 +10,8 @@ class Solution {
     public int rob(int[] nums) {
         dp=new int[nums.length];
         Arrays.fill(dp,-1);
-        return help(0,nums);
+         help(0,nums);
+         if(nums.length==1) return nums[0];
+         return Math.max(dp[0],dp[1]);
     }
 }
