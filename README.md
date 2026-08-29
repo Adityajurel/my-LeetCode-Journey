@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/Adityajurel/my-LeetCode-Journey/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Adityajurel/my-LeetCode-Journey/tree/master/0042-trapping-rain-water) |
+| [0062-unique-paths](https://github.com/Adityajurel/my-LeetCode-Journey/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Adityajurel/my-LeetCode-Journey/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/Adityajurel/my-LeetCode-Journey/tree/master/0085-maximal-rectangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Adityajurel/my-LeetCode-Journey/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Adityajurel/my-LeetCode-Journey/tree/master/0050-powx-n) |
+| [0062-unique-paths](https://github.com/Adityajurel/my-LeetCode-Journey/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Adityajurel/my-LeetCode-Journey/tree/master/0070-climbing-stairs) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Adityajurel/my-LeetCode-Journey/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Tree
@@ -219,4 +221,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Adityajurel/my-LeetCode-Journey/tree/master/0022-generate-parentheses) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Adityajurel/my-LeetCode-Journey/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
